@@ -5,7 +5,7 @@ Questa repository contiene esercizi di base svolti in linguaggio C. Ogni link po
 
 ## 📂 Indice degli esercizi
 
-​🟢 ​[Esercizio_01](./esercizi_base/esercizio_01.c)  
+​🟢 ​[Esercizio_01](./esercizio_01.c)  
 
 **Titolo:** Somma di due numeri interi  
 **Descrizione:**  
