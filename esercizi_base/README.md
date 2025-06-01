@@ -20,7 +20,7 @@ Questo esercizio richiede all'utente di inserire due numeri interi da tastiera, 
 È uno dei primi esercizi fondamentali per chi inizia a studiare il C, poiché introduce concetti essenziali della programmazione imperativa.
 
 ##
-​🟢​ [Esercizio_02](./esercizi_base/esercizio_02.c)
+​🟢​ [Esercizio_02](./esercizio_02.c)
    
 **Titolo:** Verifica se un numero è pari o dispari  
 **Descrizione:**  
@@ -36,7 +36,7 @@ Questo esercizio chiede all'utente di inserire un numero intero e determina se i
 
 ##
 
-​🟢​ [Esercizio_03](./esercizi_base/esercizio_03.c) 
+​🟢​ [Esercizio_03](./esercizio_03.c) 
 
 **Titolo:** Calcolo dell'area di un rettangolo  
 **Descrizione:**  
@@ -52,7 +52,7 @@ Questo esercizio chiede all'utente di inserire due lati interi di un rettangolo,
 
 ##
 
-​🟢​ [Esercizio_04](./esercizi_base/esercizio_04.c)  
+​🟢​ [Esercizio_04](./esercizio_04.c)  
 
 **Titolo:** Trova il numero maggiore tra tre numeri  
 **Descrizione:**  
@@ -68,7 +68,7 @@ Questo esercizio chiede all'utente di inserire tre numeri interi e determina qua
 
 ##
    
-​🟢 ​[Esercizio_05](./esercizi_base/esercizio_05.c)  
+​🟢 ​[Esercizio_05](./esercizio_05.c)  
 
 **Titolo:** Stampa dei numeri da 0 a un numero inserito dall’utente  
 **Descrizione:**  
@@ -85,7 +85,7 @@ Questo programma chiede all’utente di inserire un numero intero (`num`) e stam
 
 ##
 
-​🟢​ [Esercizio_06](./esercizi_base/esercizio_06.c)  
+​🟢​ [Esercizio_06](./esercizio_06.c)  
 
 **Titolo:** Calcolo del fattoriale di un numero intero  
 **Descrizione:**  
@@ -100,7 +100,7 @@ Questo programma chiede all’utente di inserire un numero intero minore o ugual
 Questo esercizio è utile per introdurre i concetti di ciclo e algoritmo in C.
 ##
 
-​🟢​ [Esercizio_07](./esercizi_base/esercizio_07.c)  
+​🟢​ [Esercizio_07](./esercizio_07.c)  
 
 **Titolo:** Creazione della tabellina di un numero intero  
 **Descrizione:**  
@@ -117,7 +117,7 @@ Questo esercizio aiuta a consolidare la comprensione dei cicli e delle operazion
 
 # 📚​ Progetti fine capitolo
 
-🟣​ [Progetto_media](./esercizi_base/progetto_media.c)
+🟣​ [Progetto_media](./progetto_media.c)
 
 **Titolo:** Calcolo della media di cinque voti  
 **Descrizione:**  
@@ -132,7 +132,7 @@ Questo progetto chiede all’utente di inserire cinque voti (numeri reali) trami
 Questo esercizio conclude il capitolo introducendo l'uso dei numeri reali e il concetto di aggregazione di dati tramite media.
 
 
-🟣​ [Progetto_bevande](./esercizi_base/progetto_bevande.c)
+🟣​ [Progetto_bevande](./progetto_bevande.c)
 
 **Titolo:** Distributore automatico di bevande con `switch`  
 **Descrizione:**  
