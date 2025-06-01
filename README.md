@@ -4,6 +4,8 @@
 ![Made With](https://img.shields.io/badge/Linguaggio:%20-C-blue)
 ![Status](https://img.shields.io/badge/Stato:-in%20corso...-pink)
 
+![Icona C](https://raw.githubusercontent.com/the-userr/GitHub-Icons/master/icons/C.svg)
+
 Questa repository raccoglie una serie di esercizi scritti in linguaggio C, svolti durante il mio percorso di studio. Gli esercizi sono pensati per esplorare e consolidare i concetti fondamentali del C, tra cui:
 
 - Variabili, tipi di dato e operatori;
