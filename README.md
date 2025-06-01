@@ -28,4 +28,7 @@ Per compilare un file C:
 ```bash
 gcc nome_file.c -o nome_output
 ./nome_output
+```
+## 📜 Licenza
 
+Questo progetto è distribuito con licenza MIT. Vedi il file LICENSE per i dettagli.
