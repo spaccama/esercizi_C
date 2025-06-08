@@ -30,7 +30,7 @@ int main()
             scanf("%s", libreria[i].autore);
 
             printf("\nInserire anno: ");
-            scanf("%d", libreria[i].anno);
+            scanf("%d", &libreria[i].anno);
         }
     }
 
